@@ -18,11 +18,9 @@ function HeaderCompound({ children }) {
         <FeatureTitle className="feature-title-home">
           Unlimited movies, TV shows and more.
         </FeatureTitle>
-      
       </FeatureWrapper>
       {children}
     </HeaderWrapper>
-  
   );
 }
 

@@ -47,7 +47,7 @@ function SigninPage() {
           <Logo />
         </NavBar>
         <SignFormWrapper>
-          <SignFormBase onSubmit={handleSubmit} method="POST">  
+          <SignFormBase onSubmit={handleSubmit} method="POST">
             <SignFormTitle>Sign In</SignFormTitle>
             {error ? <SignFormError>{error}</SignFormError> : null}
             <SignFormInput

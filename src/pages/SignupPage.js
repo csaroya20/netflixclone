@@ -56,7 +56,6 @@ function SignupPage() {
         </NavBar>
         <SignFormWrapper>
           <SignFormBase onSubmit={handleSubmit} method="POST">
-            <Warning> Netflix</Warning>
             <SignFormTitle>Sign Up</SignFormTitle>
             {error ? <SignFormError>{error}</SignFormError> : null}
             <SignFormInput

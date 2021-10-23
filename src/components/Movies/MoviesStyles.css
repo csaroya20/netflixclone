@@ -1,7 +1,7 @@
-/* Movies Section */
+/*  Movies Section */
 
 .all-slides-wrapper {
-  padding: 50px 60px;
+  padding: 30px 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -44,17 +44,17 @@
 
 .card-image {
   border: 0;
-  width: 100%;
-  max-width: 170px;
+  width: 50px;
+  max-width: 500px;
   cursor: pointer;
-  height: 60px;
+  height: 50px;
   padding: 0 5px;
 }
 
 .card-feature-wrapper {
   background-size: contain;
   position: relative;
-  height: 360px;
+  height: 500px;
   background-position-x: right;
   background-repeat: no-repeat;
   background-color: black;

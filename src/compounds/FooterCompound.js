@@ -8,7 +8,7 @@ import FooterLink from "../components/Footer/FooterLink";
 function FooterCompound() {
   return (
     <FooterWrapper>
-      <FooterTitle>Questions? Call Us </FooterTitle>
+      <FooterTitle>Questions? Call Us.</FooterTitle>
       <FooterRow>
         <FooterColumn>
           <FooterLink>FAQ</FooterLink>
@@ -34,7 +34,7 @@ function FooterCompound() {
           <FooterLink>Contact Us</FooterLink>
         </FooterColumn>
       </FooterRow>
-      <p class = "footer-country"> Netflix India</p>
+      <p>Netflix India</p>
     </FooterWrapper>
   );
 }
