@@ -1,1 +1,1 @@
-# netflixclone.github.io
+<img src="netflix clone gif.gif"> 
