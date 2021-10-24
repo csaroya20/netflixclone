@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/csaroya20/netflixclone/static/css/main.ab7a3f0f.chunk.css",
+    "main.js": "/csaroya20/netflixclone/static/js/main.70c25353.chunk.js",
+    "main.js.map": "/csaroya20/netflixclone/static/js/main.70c25353.chunk.js.map",
+    "runtime-main.js": "/csaroya20/netflixclone/static/js/runtime-main.623add05.js",
+    "runtime-main.js.map": "/csaroya20/netflixclone/static/js/runtime-main.623add05.js.map",
+    "static/js/2.0aaf957a.chunk.js": "/csaroya20/netflixclone/static/js/2.0aaf957a.chunk.js",
+    "static/js/2.0aaf957a.chunk.js.map": "/csaroya20/netflixclone/static/js/2.0aaf957a.chunk.js.map",
+    "index.html": "/csaroya20/netflixclone/index.html",
+    "precache-manifest.b163d82bfd57f1bca759fd33a252cff8.js": "/csaroya20/netflixclone/precache-manifest.b163d82bfd57f1bca759fd33a252cff8.js",
+    "service-worker.js": "/csaroya20/netflixclone/service-worker.js",
+    "static/css/main.ab7a3f0f.chunk.css.map": "/csaroya20/netflixclone/static/css/main.ab7a3f0f.chunk.css.map",
+    "static/js/2.0aaf957a.chunk.js.LICENSE.txt": "/csaroya20/netflixclone/static/js/2.0aaf957a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623add05.js",
+    "static/js/2.0aaf957a.chunk.js",
+    "static/css/main.ab7a3f0f.chunk.css",
+    "static/js/main.70c25353.chunk.js"
+  ]
+}
